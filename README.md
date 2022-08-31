@@ -5,10 +5,10 @@
 
 ### Работа с приложением
 - В файле hosts.txt неоходимо указать список ip-адресов, которые необходимо проверить:
-![Пример](https://raw.githubusercontent.com/daf9194/port_screen/img/scr_1.png)
+![Пример](https://raw.githubusercontent.com/daf9194/port_screen/master/img/scr_1.png)
 
 - В файле main.py в строке №6, в переменной `port_lst` указать список портов для проверки:
-![Пример](https://raw.githubusercontent.com/daf9194/port_screen/img/scr_2.png)
+![Пример](https://raw.githubusercontent.com/daf9194/port_screen/master/img/scr_2.png)
 
 ## Установка бота
 1. Клонировать текущий репозиторий.
