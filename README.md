@@ -15,5 +15,5 @@
 2. Установка необходимых Python-пакетов  
 `python3 -m pip install -r requirements.txt`
 3. Указание ip-адресов и портов.
-3. Запуск скрипта  
+4. Запуск скрипта  
 `python3 main.py`
